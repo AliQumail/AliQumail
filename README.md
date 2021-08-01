@@ -8,6 +8,6 @@
 
 
 ### Skills 
- Web - Html Css Bootstrap Javascript React Js Next Js Node js Express Js 
- Data - PowerBI SQL 
- Programming - C++ Javascript Python 
+ - Web  Html Css Bootstrap Javascript React Js Next Js Node js Express Js 
+ - Data  PowerBI SQL 
+ - P-rogramming  C++ Javascript Python 
