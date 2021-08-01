@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on building my personal projects using React Js and experimenting with new technologies. 
 - 🌱 I’m currently learning Next Js to make production level apps and Power BI to find crazy insights from different datasets   
 - 💬 Ask me about web development 
-- 📫 How to reach me: Linkedin https://www.linkedin.com/in/ali-qumail-4b77601a8/
+- 📫 Connect with me on Linkedin https://www.linkedin.com/in/ali-qumail-4b77601a8/
 
 ### Skills 
 
