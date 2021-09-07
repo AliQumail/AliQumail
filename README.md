@@ -1,12 +1,12 @@
 ### Hi, I'm Ali Qumail 👋
 
-- 🔭 I’m currently working on building my personal projects using React Js and experimenting with new technologies. 
-- 🌱 I’m currently learning Next Js to make production level apps and Power BI to find crazy insights from different datasets   
-- 💬 Ask me about web development 
+- 🔭 Working on Projects using MERN stack
+- 🌱 Learning how to write clean code    
+- 💬 Looking to purse a career in full stack development 
 - 📫 Connect with me on Linkedin https://www.linkedin.com/in/ali-qumail-4b77601a8/
 
 ### Skills 
 
- - Web  :    Html    Css    Bootstrap    Javascript    React Js    Next Js    Node js    Express Js 
+ - Web  :    Html    Css    Bootstrap    Javascript    React Js    Next Js    Node js    Express Js MongoDB 
  - Data  :    PowerBI    SQL 
- - Programming  :    C++ Javascript    Python 
+ - Programming  :    C++  Javascript    Python 
