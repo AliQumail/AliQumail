@@ -2,7 +2,7 @@
 
 - 🔭 Working on Projects using MERN stack
 - 🌱 Learning how to write clean code    
-- 💬 Looking to purse a career in full stack development 
+- 💬 Looking forward to purse a career in full stack development 
 - 📫 Connect with me on Linkedin https://www.linkedin.com/in/ali-qumail-4b77601a8/
 
 ### Skills 
