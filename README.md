@@ -1,7 +1,7 @@
 ### Hi, I'm Ali Qumail 👋
 
-- 🔭 Working on Projects using MERN stack
-- 🌱 Learning how to write clean code    
+- 🔭 Trying to build projects using React, Node, Express, Mongodb, Next, Bootstrap
+- 🌱 Interested in building web and mobile applications to solve real world problems.    
 - 💬 Looking forward to purse a career in full stack development 
 - 📫 Connect with me on Linkedin https://www.linkedin.com/in/ali-qumail-4b77601a8/
 
