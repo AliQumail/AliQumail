@@ -1,4 +1,1 @@
-Skills - 
-
-Python Javascript SQL 
-React Node Express MongoDB
+Skills - Python Javascript SQL React Node Express MongoDB
