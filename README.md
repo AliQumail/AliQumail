@@ -1,1 +1,4 @@
-React/Node/MongoDB/Express 
+Skills - 
+
+Python Javascript SQL 
+React Node Express MongoDB
