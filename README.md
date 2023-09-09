@@ -2,13 +2,14 @@
 
 <h1 align="left">Hey there, I'm <a href="https://www.linkedin.com/in/saqibama/">Ali Qumail</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" /></h1>
 
-I'm a Full-Stack/software engineer
+I'm a Full-Stack/Software engineer
 
 ## 🧑🏽‍💻 What am I doing?
 
 <div style="line-height: 1.15">
-    <b>🔒 <a href="#" target="_blank">Octopus Digital / Avanceon</a></b>
+    <b><a href="#" target="_blank">Octopus Digital / Avanceon</a></b>
     <p>Full Stack Engineer</p>
+    <p> Working on a cutting-edge enterprise-level IoT web application, poised to revolutionize how businesses harness the power of connected devices</p>
 </div>
 
 ## 📘 Where have I studied?
