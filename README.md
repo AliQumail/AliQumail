@@ -32,7 +32,7 @@ I'm a Full-Stack/Software engineer
 
 ## 💻 Technical Skills
 
-I mostly work with <b>Angular</b> and <b>Dotnet Core</b> these days. I'm fimiliar with <b>MERN</b> stack. In future, I'm planning to learn <b>Next JS, Java SpringBoot</b> and <b>Nest JS</b>. 
+I work with Angular, React, .NET Core, Node JS, SQL, MongoDB, Docker, Azure etc.
 
 <h2 align="left">🌐 How to connect?</h2>
 <p align="left">
