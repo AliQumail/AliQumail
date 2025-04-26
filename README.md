@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi, I'm <a href="https://www.linkedin.com/in/saqibama/">Ali Qumail</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" /></h1>
 
-I'm a Software engineer with 2.5 years of experience develop modern full-stack applications
+I'm a Software engineer with 2.5 years of experience developing modern full-stack applications
 
 ## 🧑🏽‍💻 Experience?
 
