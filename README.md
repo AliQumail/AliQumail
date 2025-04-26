@@ -2,13 +2,13 @@
 
 <h1 align="left">Hi, I'm <a href="https://www.linkedin.com/in/saqibama/">Ali Qumail</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" /></h1>
 
-I'm a Full-Stack/Software engineer
+I'm a Software engineer with 2.5 years of experience develop modern full-stack applications
 
 ## 🧑🏽‍💻 Experience?
 
 <div style="line-height: 1.15">
     <b><a href="#" target="_blank">Octopus Digital / Avanceon</a></b>
-    <p>Full Stack Engineer</p>
+    <p>Software Engineer</p>
     <p> Working on a cutting-edge enterprise-level IoT web application, poised to revolutionize how businesses harness the power of connected devices</p>
 </div>
 
