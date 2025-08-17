@@ -4,7 +4,7 @@
 
 <h1 align="left">Hi, I'm <a href="https://www.linkedin.com/in/ali-qumail-4b77601a8/">Ali Qumail</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/></h1>
 
-I'm a Full Stack Software Engineer with 2.5 years of experience, building enterprise IoT applications at a leading industrial automation firm with $50M+ in business across the Middle East and South Asia.
+I'm a Full Stack Software Engineer with 2.5+ years of hands-on experience building enterprise-grade IoT applications. I work at a leading industrial automation company that's driving $70M–$80M in business across the Middle East and South Asia.
 
 ---
 
