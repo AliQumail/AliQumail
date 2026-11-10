@@ -1,69 +1,49 @@
-<a href="https://github.com/aliqumail">
-  <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=aliqumail&style=flat-square" width="125"/>
-</a>
+Ali Qumail
 
-<h1 align="left">Hi, I'm <a href="https://www.linkedin.com/in/ali-qumail-4b77601a8/">Ali Qumail</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/></h1>
+Full stack software engineer, 3.5+ years of professional experience. Most of that time was spent on an enterprise industrial IoT platform (Angular, .NET, Azure, SQL); currently working on US retail and enterprise systems (React, .NET Core, Node.js, AWS).
 
-I'm a Full Stack Software Engineer with 3.5+ years of hands-on experience building enterprise-grade IoT applications. I work at a leading industrial automation company that's driving $70M–$80M in business across the Middle East and South Asia.
+LinkedIn · Email · Portfolio · Medium
 
----
+Experience
 
-## 💼 Work Experience
+Senior Full Stack Developer, Xavor Corporation, Lahore Feb 2026 to present
 
-### 🏢 Octopus Digital / Avanceon (Apr 2023 – Present)
-**Software Engineer**
+Systems for US retail and enterprise clients: point of sale, logistics and inventory.
+Stack: React, .NET Core, Node.js, AWS.
+Contributed to a retrieval-augmented generation (RAG) prototype for financial data, built for a client demo.
+Wrote a company blog post on observability with Datadog.
 
-- Working on a large-scale enterprise IoT platform using Angular and .NET 6.
-- Implemented role-based access control with Microsoft Identity & refresh tokens.
-- Built REST APIs to process 100K+ IoT tags, optimizing creation and storage in SQL.
-- Used SignalR for real-time communication (e.g., access control & permission management).
-- Integrated Jira APIs for client-facing ticket management within the app.
-- Mentored junior developers and optimized shared components reducing module code by 40%.
-- Deploy and manage backend APIs on Azure App Service, ensuring scalable and reliable cloud infrastructure
-- Design and optimize SQL database schemas while executing complex database operations for enhanced performance
-- Lead development of assigned product features from conception to delivery, maintaining high code quality standards and meeting project deadlines
-- Create comprehensive technical design documents featuring sequence diagrams, flowcharts, and UML diagrams to guide development processes
-- Deliver technical presentations on feature implementations to multi-level stakeholders including C-suite executives and quality assurance teams
-- Guide and mentor junior software engineers in debugging processes, technical knowledge transfer, and effective task breakdown for feature implementation
+Software Engineer, Octopus Digital / Avanceon Apr 2023 to Feb 2026
 
+Avanceon is an industrial automation company with $70M to $80M in business across the Middle East and South Asia. Worked on OmniConnect, its cloud-native industrial IoT platform (Angular, .NET 6, Azure, SQL).
 
-### 💻 The Dev Corporate (Aug 2022 – Oct 2022)  
-**Backend Developer Intern (NodeJS)**
+REST APIs for creating and storing 100K+ IoT tags; optimised the SQL schema and data operations behind them.
+Role-based access control with Microsoft Identity and refresh tokens.
+Real-time access control and permission updates over SignalR.
+Jira API integration for in-app client ticket management.
+Refactored shared components, reducing module code by about 40%.
+Deployed and maintained backend APIs on Azure App Service.
+Owned assigned product features from design to delivery; wrote technical design documents (sequence diagrams, flowcharts, UML).
+Presented feature implementations to stakeholders from QA up to C-level.
+Mentored junior engineers on debugging, task breakdown and knowledge transfer.
 
-- Built RESTful APIs for a Time Tracking app using Nest.js and MongoDB.
-- Deployed and documented services on Heroku, using Git/GitLab for version control.
+Backend Developer Intern, The Dev Corporate Aug 2022 to Oct 2022
 
----
-
-## 🎓 Education
-
-- **FAST NUCES, Lahore** – BS in Computer Science (2019–2023)  
-- **Beaconhouse** – O & A Levels (Math, Physics, Computer Science)
-
----
-
-## 🧠 Skills & Technologies
-
-**Languages:** TypeScript, C#, Python, SQL  
-**Frameworks:** Angular, React, .NET Core, Node.js, NestJS  
-**Others:** Docker, Azure (AZ-900), RabbitMQ, SignalR, Git, Postman  
-
-
----
-
-## 🏅 Achievements & Certifications
-
-- 🥈 2nd Place – Devsinc National Programming Hackathon (200+ participants) in 2021
-- 🎓 Microsoft Azure Fundamentals Certified (AZ-900)
-- 💻 The Complete 2020 Web Development Bootcamp – Angela Yu
-
----
-
-## 🌐 Let's Connect
-
-<p align="left">
-  <a href="mailto:aliqumail8@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ali-qumail-4b77601a8/"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
-
+REST APIs for a time-tracking application (NestJS, MongoDB).
+Deployment and API documentation on Heroku; version control with Git and GitLab.
+Projects
+SensorMind (in progress): Assistant for industrial IoT data using retrieval-augmented generation. A plant view shows each asset's tags and live values, and a chat interface answers questions about plant state and recent readings. Built with React, .NET Core, Qdrant and OpenRouter.
+CrypSimulator: Cryptocurrency buy and exchange simulator built as .NET microservices with a TypeScript frontend.
+MyLedgerPro: Ledger and invoicing web application (Angular, .NET).
+Education
+BS Computer Science, FAST NUCES, Lahore (2019 to 2023)
+O and A Levels (Mathematics, Physics, Computer Science), Beaconhouse
+Skills
+Languages: C#, TypeScript, SQL
+Frameworks: .NET Core, Angular, React, Node.js, NestJS
+Cloud and infrastructure: Azure, AWS, Docker, RabbitMQ
+Other: SignalR, Git, Postman
+Certifications and awards
+Microsoft Certified: Azure Developer Associate (AZ-204)
+Microsoft Certified: Azure Fundamentals (AZ-900)
+2nd place, Devsinc National Programming Hackathon, 2021 (200+ participants)
